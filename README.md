@@ -35,6 +35,7 @@ Keep in mind that as you continue to use copilot, you may not want some of the s
 1. Use the VS Code terminal to pull the latest code:
 
    ```
+
    git pull
    ```
 
